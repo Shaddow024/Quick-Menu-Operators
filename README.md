@@ -13,6 +13,7 @@ The included operators are:
 
 -The slice boolean:
   It works a lot like the slice boolean from the bool tool but with added funkionality, like moving the modifier to the top or creating a collection for all the cutters.
+  ![image](https://user-images.githubusercontent.com/102923062/161826385-3d437b26-a958-4907-ade2-01e43cb0fc4a.png)
   
 -The inset boolean:
   It behaves a bit like a slice boolean, but the region gets inseted.
@@ -25,3 +26,4 @@ The included operators are:
   
 -Apply all Modifiers:
   This will apply all modifiers based on their type for the selected objects.
+
