@@ -1,9 +1,13 @@
 # Quick-Menu-Operators
-These Operators are made to add some more usefull utility to the Blender addon Quick Menu.
+These Operators are made to add some more usefull utility to the Blender addon Quick Menu by Passivestar.
 
 To acces all of the features you have to download the zip file above, unzip it and install the addon like any other addon and after that you have to click the edit 
 button of the quick menu and find the location of that json file.
 After you found the normal json file you have to swap it with the json file that is contained in the zip.
+The Quick Menu itself:
+https://github.com/passivestar/quickmenu
+and how to customize the operatoes yourself:
+https://github.com/passivestar/quickmenu/blob/main/CUSTOMIZATION.md
 
 The included operators are:
 
