@@ -17,6 +17,8 @@ The included operators are:
   
 -The inset boolean:
   It behaves a bit like a slice boolean, but the region gets inseted.
+  ![image](https://user-images.githubusercontent.com/102923062/161833339-3af78a7d-a9c3-457b-9f31-2684b65078f9.png)
+
   
 -Show all cutters:
   Shows all objects cutting the selected objects.
