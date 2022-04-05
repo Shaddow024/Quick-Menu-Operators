@@ -521,11 +521,14 @@
       "operator": "qm.weld_edges_into_faces"
     },
     {
-      "path":"(E) Boolean-Knife/(S)Show cutters",
+      "path": "(E) Boolean-Knife/[Separator]"
+    },
+    {
+      "path":"(E) Boolean-Knife/(Z)Show cutters",
       "operator": "mqm.show_cutters"
     },
     {
-      "path":"(E) Boolean-Knife/(D)Hide cutters",
+      "path":"(E) Boolean-Knife/(X)Hide cutters",
       "operator": "mqm.hide_cutters"
     },
     {
